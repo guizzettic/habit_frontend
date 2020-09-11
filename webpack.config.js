@@ -24,4 +24,8 @@ module.exports = {
       template: './src/index.html',
     }),
   ],
+  // devServer: {
+  //   proxy: "http://localhost:5000"
+
+  // }
 };
